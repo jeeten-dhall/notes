@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="architecture" id="vfD3lr8TJ8JF09UrLSWe">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wO9GZomNT8Kk2tWwLUos-5" value="eBooks (pdf)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wO9GZomNT8Kk2tWwLUos-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wO9GZomNT8Kk2tWwLUos-7" value="Start:&lt;div&gt;PDF Processor&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="95" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wO9GZomNT8Kk2tWwLUos-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.44;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wO9GZomNT8Kk2tWwLUos-7" target="wO9GZomNT8Kk2tWwLUos-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="210" as="sourcePoint" />
+            <mxPoint x="580" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
